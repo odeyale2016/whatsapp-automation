@@ -1,0 +1,21 @@
+--------------------
+Date: 9:12:2020
+Time: 0:20
+Phone number: +2348053456634
+Message: Hello I'm testing Python Library for Whatsapp
+--------------------
+Date: 9:12:2020
+Time: 0:53
+Phone number: +2348053456634
+Message: Hello I'm testing Python Library for Whatsapp
+--------------------
+Date: 9:12:2020
+Time: 11:47
+Phone number: +2348053456634
+Message: 1 bitcoin will cost you18226.36US Dollars.
+--------------------
+Date: 9:12:2020
+Time: 11:51
+Phone number: +2348104004365
+Message: 1 bitcoin will cost you18203.48US Dollars. - from Alphatech(The PythonCoder) 
+--------------------
